@@ -1,34 +1,34 @@
 # stats-correlation-linear-regression
 
-Projeto de estudos aplicados sobre correlacao e regressao linear com Python.
+Projeto de estudos aplicados sobre correlação e regressão linear com Python.
 
-## Conteudo
+## Conteúdo
 
-- `analise_correlacao_e_regressao.ipynb`: notebook introdutorio de analise.
-- `Projeto/`: material aplicado de regressao linear.
-- `Dados/`: bases usadas nos exercicios.
-- `requirements.txt`: dependencias.
+- `analise_correlacao_e_regressão.ipynb`: notebook introdutório de análise.
+- `Projeto/`: material aplicado de regressão linear.
+- `Dados/`: bases usadas nos exercícios.
+- `requirements.txt`: dependências.
 
 ## Objetivo
 
-O repositorio foca na relacao entre variaveis numericas e no uso de regressao linear para explicar ou prever uma variavel alvo.
+O repositório foca na relação entre variáveis numéricas e no uso de regressão linear para explicar ou prever uma variável alvo.
 
-Os principais topicos sao:
+Os principais tópicos são:
 
-- visualizacao de relacoes entre variaveis;
-- calculo e interpretacao de correlacao;
-- ajuste de regressao linear;
-- interpretacao de coeficientes;
-- avaliacao basica de resultados;
-- cuidados com conclusoes causais.
+- visualização de relações entre variáveis;
+- cálculo e interpretação de correlação;
+- ajuste de regressão linear;
+- interpretação de coeficientes;
+- avaliação básica de resultados;
+- cuidados com conclusões causais.
 
 ## Dados
 
-As bases foram mantidas apenas quando necessarias para reproduzir os notebooks. O nome do repositorio evita atrelar o projeto a uma base especifica, porque o foco e o conteudo estatistico.
+As bases foram mantidas apenas quando necessárias para reproduzir os notebooks. O nome do repositório evita atrelar o projeto a uma base específica, porque o foco é o conteúdo estatístico.
 
 ## Como Executar
 
-Instale as dependencias:
+Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
@@ -37,9 +37,9 @@ pip install -r requirements.txt
 Abra o notebook principal:
 
 ```bash
-jupyter notebook analise_correlacao_e_regressao.ipynb
+jupyter notebook analise_correlacao_e_regressão.ipynb
 ```
 
-## Limitacoes
+## Limitações
 
-Correlacao nao implica causalidade. Os resultados devem ser interpretados como estudo estatistico e nao como conclusoes definitivas sobre fenomenos reais sem analise adicional.
+Correlação não implica causalidade. Os resultados devem ser interpretados como estudo estatístico e não como conclusões definitivas sobre fenômenos reais sem análise adicional.
